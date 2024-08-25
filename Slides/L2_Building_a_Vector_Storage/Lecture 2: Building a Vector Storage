@@ -1,0 +1,156 @@
+Let's begin with **Lecture 2: Building a Vector Storage**. Below is the detailed outline of each slide along with image prompts.
+
+### **Slide 1: Title Slide**
+
+- **Title:** Building a Vector Storage
+- **Subtitle:** Essential Techniques for Document Processing in LLM Applications
+- **Presenter:** [Your Name]
+- **Date:** [Lecture Date]
+
+**AI Image Prompt:**
+Generate an image of a high-tech data storage system with abstract representations of documents being transformed into vectors. The image should include floating document icons that transition into vector-like structures (lines, nodes). The setting should be modern and sophisticated, with a blue and white color scheme to represent clarity and precision.
+
+![Alt text](images/S1.png)
+---
+
+### **Slide 2: Overview**
+
+- **Title:** Lecture Overview
+- **Bullet Points:**
+  - Introduction to Vector Storage in LLM Applications
+  - Document Ingestion: Formats and Challenges
+  - Document Loaders and API/Database Integration
+  - Text Splitting Techniques: Semantic Chunking, Recursive Splitting
+
+**AI Image Prompt:**
+Create a visual roadmap of the lecture topics. The roadmap should show the progression from "Document Ingestion" to "Text Splitting Techniques," with each step represented by icons: a document for ingestion, a database symbol for loaders, and a dividing line for text splitting. The design should be clean and linear, with shades of blue and gray.
+
+![Alt text](images/S2.png)
+---
+
+### **Slide 3: Introduction to Vector Storage**
+
+- **Title:** Introduction to Vector Storage in LLM Applications
+- **Bullet Points:**
+  - **What is Vector Storage?** Storing text data as vectors for efficient retrieval and processing.
+  - **Role in LLMs:** Essential for building Retrieval-Augmented Generation (RAG) pipelines.
+  - **Key Components:** Document ingestion, text splitting, embedding generation.
+
+**AI Image Prompt:**
+Design an image representing the concept of vector storage. The central focus should be a digital storage unit with streams of documents being converted into vector grids. Surround the storage unit with icons representing the different stages: ingestion, splitting, and embedding. The style should be modern, with blue and silver tones, symbolizing technological sophistication.
+
+![Alt text](images/S3.png)
+---
+
+### **Slide 4: Document Ingestion**
+
+- **Title:** Document Ingestion: Formats and Challenges
+- **Bullet Points:**
+  - **Formats Supported:** PDF, JSON, HTML, Markdown, and more.
+  - **Challenges:** Handling large files, maintaining text integrity, dealing with various formats.
+  - **Best Practices:** Use of document loaders, pre-processing steps to ensure consistency.
+
+**AI Image Prompt:**
+Create an image depicting different document formats (PDF, JSON, HTML) being funneled into a processing unit. The unit should have gears and wheels to symbolize the ingestion process. The background should represent a streamlined workflow, with a focus on efficiency and accuracy. The color scheme should use shades of blue and gray to convey professionalism.
+
+![Alt text](images/S4.png)
+---
+
+### **Slide 5: Document Loaders and Integration**
+
+- **Title:** Document Loaders and API/Database Integration
+- **Bullet Points:**
+  - **What Are Document Loaders?** Tools that simplify the process of importing and processing documents.
+  - **API Integration:** Direct retrieval of data from sources like GitHub, Reddit, Google Drive.
+  - **Database Integration:** Connecting to SQL, NoSQL databases for direct data ingestion.
+
+**AI Image Prompt:**
+Design an image showing a workflow where documents are loaded into an API or database. Include icons representing various sources (GitHub, Google Drive) and their connections to a central processing hub. The background should be a network of data connections, symbolizing integration. Use a modern, clean style with a blue and white color scheme.
+
+![Alt text](images/S5.png)
+---
+
+### **Slide 6: Text Splitting Techniques**
+
+- **Title:** Text Splitting Techniques
+- **Bullet Points:**
+  - **Semantic Chunking:** Splitting text into meaningful, context-aware chunks.
+  - **Recursive Splitting:** Breaking down large text into hierarchical segments.
+  - **Importance:** Enhances the quality of embeddings and improves retrieval accuracy.
+
+**AI Image Prompt:**
+Create an image that visually represents the concept of text splitting. Show a long piece of text being divided into smaller, meaningful chunks, with each chunk forming a part of a larger structure (like a puzzle or hierarchical tree). The style should be modern and digital, using a blue and silver color palette to maintain consistency with previous slides.
+
+
+![Alt text](images/S6.png)
+---
+
+### **Slide 7: Semantic Chunking**
+
+- **Title:** Semantic Chunking
+- **Bullet Points:**
+  - **Definition:** Splitting text based on meaning rather than arbitrary character limits.
+  - **Benefits:** Ensures that each chunk contains coherent information, improving retrieval quality.
+  - **Use Cases:** Ideal for processing long documents, technical manuals, legal texts.
+
+**AI Image Prompt:**
+Design an image illustrating semantic chunking. Depict a long document being split into sections, with each section highlighted to show its meaning is preserved. The document should have a glowing outline, emphasizing the importance of retaining meaning during the split. Use a sleek, futuristic design with blue tones.
+
+![Alt text](images/S7.png)
+---
+
+### **Slide 8: Recursive Splitting**
+
+- **Title:** Recursive Splitting
+- **Bullet Points:**
+  - **Definition:** A technique for breaking down text into smaller, nested segments.
+  - **Benefits:** Allows for the creation of a hierarchical structure, useful for complex documents.
+  - **Use Cases:** Effective for structured documents like academic papers, legal contracts.
+
+**AI Image Prompt:**
+Create an image that represents recursive splitting. Show a large document being broken down into smaller, nested sections, each section branching off into further subdivisions. The visual should resemble a hierarchical tree structure, with each node representing a split. The color scheme should use gradients of blue to create depth and complexity.
+
+![Alt text](images/S8.png)
+---
+
+### **Slide 9: Best Practices for Text Splitting**
+
+- **Title:** Best Practices for Text Splitting
+- **Bullet Points:**
+  - **Context-Aware Splitting:** Always consider the context when splitting text to avoid losing meaning.
+  - **Preserve Document Structure:** Maintain the logical structure of the original document.
+  - **Use Metadata:** Add metadata to chunks for better retrieval and relevance during searches.
+
+**AI Image Prompt:**
+Design an image showing a document being carefully split while preserving its structure. Highlight areas where context and structure are maintained. Include metadata tags attached to each chunk, symbolizing the added information for better retrieval. The style should be precise and clean, with a focus on blue and white tones.
+
+![Alt text](images/S9.png)
+---
+
+### **Slide 10: Summary**
+
+- **Title:** Summary of Key Points
+- **Bullet Points:**
+  - **Understanding Vector Storage:** Key role in LLM applications.
+  - **Document Ingestion and Splitting:** Techniques to prepare text for vectorization.
+  - **Best Practices:** Importance of preserving meaning and structure in text processing.
+
+**AI Image Prompt:**
+Create a simple, clean image summarizing the key points of the lecture. Use icons from the previous slides: a storage unit for vector storage, a document for ingestion, and a splitting line for text processing. Arrange them in a horizontal line with connecting arrows, representing the flow of the lecture. The style should be minimalistic, with a white background and soft blue accents.
+
+![Alt text](images/S10.png)
+---
+
+### **Slide 11: Questions and Discussion**
+
+- **Title:** Questions and Discussion
+- **Bullet Points:**
+  - **Open Floor for Questions:** Encourage participants to ask questions and clarify any doubts.
+  - **Discussion on Implementation:** Explore how to apply vector storage techniques in real-world scenarios.
+  - **Next Lecture Preview:** Briefly introduce the topic for the next lecture, "Embedding Models and Vector Databases."
+
+**AI Image Prompt:**
+Create an image of a classroom or conference setting with a speaker at the front, gesturing toward the audience, inviting questions. The audience should look engaged, with some participants raising their hands. The style should be warm and inviting, with soft lighting and a focus on interaction. The color palette should use muted tones to create a welcoming atmosphere.
+
+![Alt text](images/S11.png)
+---

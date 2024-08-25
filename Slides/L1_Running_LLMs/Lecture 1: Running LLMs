@@ -1,0 +1,180 @@
+
+### **Slide 1: Title Slide**
+
+- **Title:** Running LLMs
+- **Subtitle:** Introduction to Large Language Models and Deployment Challenges
+
+
+  
+**AI Image Prompt:**
+Generate an image representing a futuristic lecture setting. The background should feature a high-tech classroom with large digital screens displaying a stylized image of a neural network. The lecturer is standing in front of the screen, gesturing towards it. The audience, composed of professionals, is focused on the presentation. The style should be modern and professional, with a cool blue and gray color palette.
+
+
+![Alt text](images/image.png)
+
+---
+
+### **Slide 2: Overview**
+
+- **Title:** Lecture Overview
+- **Bullet Points:**
+  - Introduction to LLMs and their deployment challenges
+  - Overview of LLM APIs (Private and Open-source)
+  - Running LLMs locally
+  - Introduction to basic prompt engineering
+
+**AI Image Prompt:**
+Create a visual roadmap of the lecture content. The roadmap should be a linear path with icons representing each topic: a brain for LLMs, a cloud for APIs, a computer for local deployment, and a lightbulb for prompt engineering. The path should be sleek, with a modern and minimalistic design, and the colors should be shades of blue and gray.
+
+
+![Alt text](images/image-1.png)
+---
+
+### **Slide 3: Introduction to LLMs**
+
+- **Title:** What Are Large Language Models (LLMs)?
+- **Bullet Points:**
+  - Definition: LLMs are AI models trained on vast amounts of text data to understand and generate human language.
+  - Significance: LLMs power a wide range of applications, from chatbots to content creation.
+  - Examples: GPT-3 (175 billion parameters), BERT (Bidirectional Encoder Representations from Transformers).
+
+**AI Image Prompt:**
+Design an image that represents the concept of Large Language Models. The central focus should be a large, abstract brain with interconnected nodes, symbolizing neural networks. Surrounding the brain are icons representing different applications: a chat bubble for chatbots, a document for content creation, and a magnifying glass for search engines. The overall style should be sleek and futuristic, with a blue and silver color palette.
+
+
+![Alt text](images/image-2.png)
+---
+
+### **Slide 4: Challenges in Running LLMs**
+
+- **Title:** Challenges in Running LLMs
+- **Bullet Points:**
+  - High computational requirements: LLMs need powerful GPUs and significant memory.
+  - Cost of deployment and scaling: Running large models can be expensive.
+  - Data privacy concerns: Handling sensitive data requires robust security measures.
+
+**AI Image Prompt:**
+Create an image illustrating the challenges of running LLMs. The image should show a large server room with racks of GPUs and a digital scale tipping towards the side of "Cost & Resources." In the foreground, depict a lock icon representing data privacy concerns. The color scheme should be dark, emphasizing the intensity of the challenges.
+
+
+![Alt text](images/image-3.png)
+---
+
+### **Slide 5: LLM APIs Overview**
+
+- **Title:** LLM APIs: Private and Open-Source Options
+- **Bullet Points:**
+  - **Private LLM APIs:**
+    - OpenAI: Known for GPT models, accessible via a powerful API.
+    - Google: Offers LLM capabilities through their Vertex AI platform.
+    - Anthropic: Focuses on safety and alignment with their Claude models.
+    - Cohere: Provides LLM services with a focus on language understanding.
+  - **Open-source LLM APIs:**
+    - OpenRouter: A versatile platform for accessing various LLMs.
+    - Hugging Face: Hosts a vast collection of models, including LLMs.
+    - Together AI: A platform emphasizing collaboration on AI development.
+
+**AI Image Prompt:**
+Design a comparative chart with icons representing each LLM API provider. The chart should be divided into two sections: "Private APIs" and "Open-source APIs." Each provider should have its logo and a brief description under it. The style should be clean and professional, using a white background with blue and gray accents.
+
+
+![Alt text](images/image-4.png)
+---
+
+### **Slide 6: Advantages of Using APIs**
+
+- **Title:** Advantages of Using LLM APIs
+- **Bullet Points:**
+  - Quick deployment with minimal setup: Start using powerful models immediately.
+  - Access to powerful models without heavy hardware investment.
+  - Continuous updates and improvements from providers.
+
+**AI Image Prompt:**
+Create an image that shows a developer happily working on a laptop, with a cloud above the laptop representing cloud-based APIs. The cloud should have icons for quick deployment (a rocket), powerful models (a brain with lightning bolts), and continuous updates (a spinning arrow). The background should be a modern office setting, and the color palette should be light with blues and greens.
+
+
+![Alt text](images/image-5.png)
+---
+
+### **Slide 7: Limitations of Using APIs**
+
+- **Title:** Limitations of Using LLM APIs
+- **Bullet Points:**
+  - Dependency on third-party providers: Risk of service changes or outages.
+  - Data privacy concerns with cloud-based APIs: Sensitive data may be exposed.
+  - Potential high costs with scaling: Costs can escalate with extensive use.
+
+**AI Image Prompt:**
+Illustrate the limitations of using LLM APIs. Show a developer looking at a cloud icon with concern. Inside the cloud, depict icons representing dependency (a broken chain), privacy concerns (a broken lock), and high costs (a dollar sign). The background should have a darker tone to emphasize the challenges.
+
+
+![Alt text](images/image-6.png)
+---
+
+### **Slide 8: Running LLMs Locally**
+
+- **Title:** Running LLMs Locally
+- **Bullet Points:**
+  - **Tools and Platforms:**
+    - Hugging Face Hub and Spaces
+    - LM Studio
+    - llama.cpp
+    - Ollama
+  - Benefits: Greater control, data privacy
+  - Challenges: Hardware requirements, maintenance
+
+**AI Image Prompt:**
+Create an image of a high-powered desktop setup with multiple monitors. On the screens, show different tools like Hugging Face, LM Studio, and llama.cpp being used. Surround the setup with icons representing control (a gear), privacy (a shield), and hardware (a GPU card). The overall style should be modern and high-tech.
+
+
+![Alt text](images/image-7.png)
+---
+
+### **Slide 9: Introduction to Prompt Engineering**
+
+- **Title:** What is Prompt Engineering?
+- **Bullet Points:**
+  - Techniques to guide LLM outputs
+  - **Types of Prompts:**
+    - Zero-shot
+    - Few-shot
+    - Chain of Thought (CoT)
+    - ReAct (Reason + Act)
+  - Importance of prompt design in improving model responses
+
+**AI Image Prompt:**
+Design an image that represents the concept of prompt engineering. Show a robot or AI figure interacting with a flowchart that represents different types of prompts. The flowchart should include paths for Zero-shot, Few-shot, Chain of Thought, and ReAct. The style should be sleek, with a futuristic touch, using shades of blue and silver.
+
+
+![Alt text](images/image-8.png)
+---
+
+### **Slide 10: Summary**
+
+- **Title:** Summary of Key Points
+- **Bullet Points:**
+  - Understanding LLM deployment challenges
+  - Overview of LLM APIs and local deployment options
+  - Introduction to prompt engineering
+
+**AI Image Prompt:**
+Create a simple, clean image summarizing the lecture. Use icons from the previous slides: a server for challenges, a cloud for APIs, and a lightbulb for prompt engineering. Arrange them in a horizontal line with connecting arrows, representing the flow of the lecture. The style should be minimalistic, with a white background and soft blue accents.
+
+
+![Alt text](images/image-9.png)
+---
+
+### **Slide 11: Questions and Discussion**
+
+- **Title:** Questions and Discussion
+- **Bullet Points:**
+  - Open floor for questions
+  - Discussion on potential use cases and deployment strategies
+  - Next lecture preview: Building a Vector Storage
+
+**AI Image Prompt:**
+Create an image of a classroom or conference setting with a speaker at the front, gesturing toward the audience, inviting questions. The audience should look engaged, with some raising their hands. The style should be warm and inviting, with soft lighting and a focus on interaction.
+
+![Alt text](images/image-10.png)
+---
+
